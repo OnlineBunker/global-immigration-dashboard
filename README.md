@@ -21,15 +21,15 @@ An interactive Streamlit web application to **explore**, **visualize**, and **an
 
 ### 🧽 Dashboard Overview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/dashboard-overview.png)
 
 ### 📈 Comparing Immigration Trends
 
-![Compare](screenshots/compare.png)
+![Compare](assets/compare.png)
 
 ### 📉 Statistical Analysis (PDF & CDF)
 
-![Stats](screenshots/stats.png)
+![Stats](assets/cdf-pdf.png)
 
 ---
 
